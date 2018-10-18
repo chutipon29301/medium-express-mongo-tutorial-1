@@ -1,0 +1,19 @@
+{
+  "name": "express-mongo-tutorial",
+  "version": "1.0.0",
+  "description": "template for medium",
+  "main": "src/index.js",
+  "author": "Chutipon Hirankanokkul",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
